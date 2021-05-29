@@ -9,7 +9,6 @@ int main(void)
 
 	moon_kg = kg * 0.17;
 
-	printf("달에서의 몸무게는 %lf입니다.\n", moon_kg);
-
+	printf("달에서의 몸무게는 %lf입니다.\n", moon_kg)
 	return 0;
 }
