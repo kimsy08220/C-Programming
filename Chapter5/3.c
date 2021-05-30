@@ -1,4 +1,4 @@
-#include <stdio.h> // º¹½À
+#include <stdio.h> 
 
 int main(void)
 {
