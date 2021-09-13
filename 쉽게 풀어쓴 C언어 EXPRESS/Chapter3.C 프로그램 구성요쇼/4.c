@@ -11,5 +11,6 @@ int main(void)
 	C = (5.0 / 9.0) * (F - 32.0);
 
 	printf("¼·¾¾°ªÀº %lfµµÀÔ´Ï´Ù.\n", C);
+
 	return 0;
 }

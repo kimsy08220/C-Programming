@@ -10,5 +10,6 @@ int main(void)
 	printf("실수형식으로는 %f입니다.\n", num);
 
 	printf("지수형식으로는 %e입니다.\n", num);
+
 	return 0;
 }

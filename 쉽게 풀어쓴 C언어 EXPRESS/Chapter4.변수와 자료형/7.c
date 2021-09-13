@@ -11,6 +11,7 @@ int main(void)
 	scanf_s("%lf", &v);
 
 	E = m * v * v / 2;
+
 	printf("운동에너지(J) : %f\n", E);
 
 	return 0;

@@ -8,5 +8,6 @@ int main(void)
 	printf("15\t16\t17\t18\t19\t20\t21\n");
 	printf("22\t23\t24\t25\t26\t27\t28\n");
 	printf("29\t30\t31\n");
+
 	return 0;
 }

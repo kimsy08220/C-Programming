@@ -17,5 +17,6 @@ int main(void)
 	avg = sum / 3;
 
 	printf("합은 %lf이고 평균은 %lf입니다.\n", sum, avg);
+
 	return 0;
 }

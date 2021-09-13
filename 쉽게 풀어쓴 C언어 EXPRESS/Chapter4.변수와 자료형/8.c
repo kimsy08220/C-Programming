@@ -8,5 +8,6 @@ int main(void)
 	scanf_s("%d", &num);
 
 	printf("문자 : %c입니다.\n", num);
+
 	return 0;
 }

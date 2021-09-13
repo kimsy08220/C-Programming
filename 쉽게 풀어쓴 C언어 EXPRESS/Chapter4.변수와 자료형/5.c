@@ -13,5 +13,6 @@ int main(void)
 	meter = n * SQMETER_PER_PYEONG;
 
 	printf("%f평방미터입니다.\n", meter);
+
 	return 0;
 }

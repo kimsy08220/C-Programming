@@ -13,5 +13,6 @@ int main(void)
 	area = w * h * 0.5;
 
 	printf("»ï°¢ÇüÀÇ ³ĞÀÌ : %lf\n", area);
+
 	return 0;
 }
