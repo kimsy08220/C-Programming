@@ -48,13 +48,13 @@ void test_result(int* eng_score, int* eng_rank)
 		if (i % 10 == 0)
 			printf("\n");
 
-		if (eng_rank[i] <= 30)
+		if (*(eng_rank + i) <= 30)
 			printf("[%3d,%3d, A] ", *(eng_rank + i), *(eng_score + i));
-		else if (eng_rank[i] <= 50)
+		else if (*(eng_rank + i) <= 50)
 			printf("[%3d,%3d, B] ", *(eng_rank + i), *(eng_score + i));
-		else if (eng_rank[i] <= 70)
+		else if (*(eng_rank + i) <= 70)
 			printf("[%3d,%3d, C] ", *(eng_rank + i), *(eng_score + i));
-		else if (eng_rank[i] <= 90)
+		else if (*(eng_rank + i) <= 90)
 			printf("[%3d,%3d, D] ", *(eng_rank + i), *(eng_score + i));
 		else
 			printf("[%3d,%3d, F] ", *(eng_rank + i), *(eng_score + i));
