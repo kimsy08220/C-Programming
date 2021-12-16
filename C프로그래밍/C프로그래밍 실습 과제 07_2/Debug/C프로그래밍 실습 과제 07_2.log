@@ -1,6 +1,0 @@
-﻿  포인터 배열 활용.c
-C:\Users\kimsy\OneDrive\바탕 화면\C언어\C프로그래밍 실습 과제 07_2\포인터 배열 활용.c(9,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\kimsy\OneDrive\바탕 화면\C언어\C프로그래밍 실습 과제 07_2\포인터 배열 활용.c(15,17): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\kimsy\OneDrive\바탕 화면\C언어\C프로그래밍 실습 과제 07_2\포인터 배열 활용.c(17,17): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\kimsy\OneDrive\바탕 화면\C언어\C프로그래밍 실습 과제 07_2\포인터 배열 활용.c(19,17): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-  C프로그래밍 실습 과제 07_2.vcxproj -> C:\Users\kimsy\OneDrive\바탕 화면\C언어\C프로그래밍 실습 과제 07_2\Debug\C프로그래밍 실습 과제 07_2.exe
